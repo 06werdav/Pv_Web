@@ -1,6 +1,1 @@
-flask
-flask-cors
-flask-mail
-openai
-reportlab
-gunicorn
+
